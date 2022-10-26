@@ -24,7 +24,7 @@ A cunning villain from the sinister organization V.O.L.E. (Villains' Odious Leag
 The youngest player goes first. On your turn, you may make a Guess or an Accusation. Usually you will make a Guess. After your turn, play continues clockwise.
 
 ### Guess
-To make a Guess, you announce a Suspect, Scheme, and Location. Starting with the player to your left, each opponent must "disprove" this guess if possible by privately revealing to you one of the named cards if they are holding it. Everyone else can see that a card was revealed but _not_ which one. If they can't, the next player clockwise must disprove the guess, and so on. If no player can disprove the guess, nothing happens.
+To make a Guess, you announce a Suspect, Scheme, and Location. Starting with the player to your left, each opponent must "disprove" this guess if possible by privately revealing to you one of the named cards if they are holding it. If they are holding multiple guessed cards, they may reveal any one of their choice. Everyone else can see that a card was revealed but _not_ which one. If they can't, the next player clockwise must disprove the guess, and so on. If no player can disprove the guess, nothing happens.
 
 ### Accusation
 An Accusation is a do-or-die bet that you know the secret Suspect, Scheme, and Location. To make an Accusation, publicly announce their prediction, then _privately_ check the secret cards. If you are correct, you win the game! If you are incorrect, you are eliminated and cannot make any more guesses, but you continue playing to disprove other players' Guesses.
