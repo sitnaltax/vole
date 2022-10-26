@@ -4,8 +4,8 @@ A quick-playing social deduction game inspired by Clue
 3-6 players, ~20 minutes
 
 ## Components
-* 23 cards: 7 Suspects, 7 Schemes, 9 Locations
-* Notebook worksheet
+* 23 cards: 7 Suspects, 7 Schemes, 9 Locations (print out [vole.pdf](https://github.com/sitnaltax/vole/blob/main/vole.pdf))
+* Notebook worksheet (print out [notebook.pdf](https://github.com/sitnaltax/vole/blob/main/notebook.pdf))
 
 You will need to print and assemble the cards. I like to print them out on ordinary paper and put them into an opaque card sleeve with a CCG card backing, but you can also print on cardstock.
 
@@ -13,6 +13,8 @@ Each player needs one Notebook page.
 
 ## Objective
 A cunning villain from the sinister organization V.O.L.E. (Villains' Odious League of Evil) has executed a plan to steal a priceless cultural treasure, and hidden it in their evil lair! To recover the treasure you must determine which Suspect it was, what Scheme they used, and what Location they have hidden the treasure.
+
+![Card](https://github.com/sitnaltax/vole/blob/main/Madame%20Emerald.png) ![Card](https://github.com/sitnaltax/vole/blob/main/Mind%20Control%20Broadcast.png) ![Card](https://github.com/sitnaltax/vole/blob/main/Desert%20Walker.png)
 
 ## Setup
 1. Sort the cards into Suspects, Schemes, and Locations. (The icons in the bottom right show which is which)
