@@ -1,5 +1,6 @@
 # V.O.L.E. : Villains' Odious League of Evil
 A quick-playing social deduction game inspired by Clue
+
 3-6 players, ~20 minutes
 
 ## Components
