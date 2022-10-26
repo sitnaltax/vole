@@ -12,7 +12,7 @@ You will need to print and assemble the cards. I like to print them out on ordin
 Each player needs one Notebook page.
 
 ## Objective
-A cunning villain from the sinister organization V.O.L.E. (Villains' Odious League of Evil) has executed a plan to steal a priceless cultural treasure, and hide it in their evil lair! To recover the treasure you must determine which Suspect it was, what Scheme they used, and what Location they have hidden the treasure.
+A cunning villain from the sinister organization V.O.L.E. (Villains' Odious League of Evil) has executed a plan to steal a priceless cultural treasure, and hidden it in their evil lair! To recover the treasure you must determine which Suspect it was, what Scheme they used, and what Location they have hidden the treasure.
 
 ## Setup
 1. Sort the cards into Suspects, Schemes, and Locations. (The icons in the bottom right show which is which)
